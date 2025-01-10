@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+torch
+diffusers @ git+https://github.com/huggingface/diffusers.git
+pydantic
